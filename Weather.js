@@ -35,7 +35,7 @@ const weatherCases = {
     subtitle: "Let it snow, Let it snow, Let it snow",
     icon: "ios-snow"
   },
-  Mist: {
+  Haze: {
     color: ["#89F7FE", "#66A6FF"],
     title: "Drizzle",
     subtitle: "Is like rain",
